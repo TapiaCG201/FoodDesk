@@ -1,2 +1,5 @@
-# FoodDesk
-Aplicación móvil para Android desarrollada en Kotlin y Java para explorar, filtrar y pedir comida a domicilio. Incluye diseño con XML layouts personalizados, búsqueda integrada, filtrado por categorías y gestión de favoritos.
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
