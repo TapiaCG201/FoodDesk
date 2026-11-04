@@ -11,12 +11,12 @@
 
 ---
 
-## 👥 Integrantes del Equipo
+##  Integrantes del Equipo
 
 **Universidad Politécnica de Tecámac (UPT)**  
 *Ingeniería en Tecnologías de la Información e Innovación Digital — Grupo 4426ITII*
 
-| Integrante | Rol | Usuario de GitHub |
+| Integrante | Usuario de GitHub |
 | :--- | :--- | :--- |
 | **Citlali Valentina Tapia González** | [@TapiaCG201](https://github.com/TapiaCG201) |
 | **Irving Uriel Ramirez Gomez** | `@irvingrami169-dot` |
@@ -24,14 +24,14 @@
 
 ---
 
-## ✨ Funciones Principales
+##  Funciones Principales
 
-- 🏠 **Pantalla de Inicio (Home):** Interfaz con encabezado personalizado, destacadas y acceso rápido al catálogo de alimentos.
-- 🔍 **Búsqueda Integrada:** Barra de búsqueda en tiempo real para localizar platillos o restaurantes por nombre.
-- 🍕 **Filtrado por Categorías:** Navegación organizada por tipos de comida (hamburguesas, pizzas, bebidas, postres, etc.).
-- ❤️ **Gestión de Favoritos:** Opción para marcar y guardar los platillos preferidos del usuario para pedidos futuros.
-- 🛒 **Carrito de Compras:** Selección de productos, ajuste de cantidades y cálculo automático del total del pedido.
-- 📱 **Diseño Adaptable:** Interfaces construidas con XML Layouts personalizados para una experiencia fluida e intuitiva.
+-  **Pantalla de Inicio (Home):** Interfaz con encabezado personalizado, destacadas y acceso rápido al catálogo de alimentos.
+-  **Búsqueda Integrada:** Barra de búsqueda en tiempo real para localizar platillos o restaurantes por nombre.
+-  **Filtrado por Categorías:** Navegación organizada por tipos de comida (hamburguesas, pizzas, bebidas, postres, etc.).
+-  **Gestión de Favoritos:** Opción para marcar y guardar los platillos preferidos del usuario para pedidos futuros.
+-  **Carrito de Compras:** Selección de productos, ajuste de cantidades y cálculo automático del total del pedido.
+-  **Diseño Adaptable:** Interfaces construidas con XML Layouts personalizados para una experiencia fluida e intuitiva.
 
 ---
 
