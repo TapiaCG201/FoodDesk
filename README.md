@@ -38,7 +38,7 @@
 
 
 
-## 🛠️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
 - **Lenguajes de programación:** Kotlin y Java
 - **Diseño de Interfaces:** XML (ConstraintLayout, RecyclerView, CardView, Material Design)
@@ -48,7 +48,7 @@
 
 
 
-## 📂 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```text
 FoodDesk/
