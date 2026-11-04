@@ -16,12 +16,16 @@
 **Universidad Politécnica de Tecámac (UPT)**  
 *Ingeniería en Tecnologías de la Información e Innovación Digital — Grupo 4426ITII*
 
-| Integrante | Usuario de GitHub |\n
-| **Citlali Valentina Tapia González** | [@TapiaCG201](https://github.com/TapiaCG201) |\n
-| **Irving Uriel Ramirez Gomez** | `@irvingrami169-dot` |\n
+| Integrante | Usuario de GitHub |
+
+
+| **Citlali Valentina Tapia González** | [@TapiaCG201](https://github.com/TapiaCG201) |
+
+| **Irving Uriel Ramirez Gomez** | `@irvingrami169-dot` |
+
 | **Jessica Alejandra Perez Palomo** |  `@jess9826091-ctrl` |
 
----
+
 
 ##  Funciones Principales
 
@@ -32,7 +36,7 @@
 -  **Carrito de Compras:** Selección de productos, ajuste de cantidades y cálculo automático del total del pedido.
 -  **Diseño Adaptable:** Interfaces construidas con XML Layouts personalizados para una experiencia fluida e intuitiva.
 
----
+
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -42,7 +46,7 @@
 - **Sistema de Construcción:** Gradle
 - **Control de Versiones:** Git y GitHub
 
----
+
 
 ## 📂 Estructura del Proyecto
 
