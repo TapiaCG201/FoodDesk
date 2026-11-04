@@ -1,4 +1,4 @@
-# 🍔 FoodDesk - Aplicación Móvil de Comida a Domicilio
+# 🍿 FoodDesk - Aplicación Móvil de Comida a Domicilio
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -6,7 +6,7 @@
 ![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 📖 Descripción del Proyecto
+##  Descripción del Proyecto
 **FoodDesk** es una aplicación móvil nativa para Android desarrollada en **Kotlin** y **Java** que permite a los usuarios explorar, filtrar y pedir comida a domicilio de manera rápida e intuitiva. Cuenta con una interfaz moderna personalizada mediante **XML Layouts**, barra de búsqueda integrada, filtrado dinámico por categorías, carrito de compras y gestión de platillos favoritos.
 
 ---
@@ -16,10 +16,9 @@
 **Universidad Politécnica de Tecámac (UPT)**  
 *Ingeniería en Tecnologías de la Información e Innovación Digital — Grupo 4426ITII*
 
-| Integrante | Usuario de GitHub |
-| :--- | :--- | :--- |
-| **Citlali Valentina Tapia González** | [@TapiaCG201](https://github.com/TapiaCG201) |
-| **Irving Uriel Ramirez Gomez** | `@irvingrami169-dot` |
+| Integrante | Usuario de GitHub |\n
+| **Citlali Valentina Tapia González** | [@TapiaCG201](https://github.com/TapiaCG201) |\n
+| **Irving Uriel Ramirez Gomez** | `@irvingrami169-dot` |\n
 | **Jessica Alejandra Perez Palomo** |  `@jess9826091-ctrl` |
 
 ---
